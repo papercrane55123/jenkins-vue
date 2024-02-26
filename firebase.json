@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "mini-jenkins",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
